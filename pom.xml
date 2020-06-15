@@ -27,6 +27,15 @@
         <freemarker.version>2.3.28</freemarker.version>
     </properties>
 
+    <repositories>
+        <repository>
+            <id>alimaven</id>
+            <name>aliyun maven</name>
+            <url>https://maven.aliyun.com/repository/public</url>
+        </repository>
+    </repositories>
+
+
     <dependencies>
 
         <dependency>
